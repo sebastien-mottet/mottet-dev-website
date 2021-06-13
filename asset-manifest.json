@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mottet-dev-website/static/css/main.860dd602.chunk.css",
+    "main.js": "/mottet-dev-website/static/js/main.d0ceb800.chunk.js",
+    "main.js.map": "/mottet-dev-website/static/js/main.d0ceb800.chunk.js.map",
+    "runtime-main.js": "/mottet-dev-website/static/js/runtime-main.90dcca0f.js",
+    "runtime-main.js.map": "/mottet-dev-website/static/js/runtime-main.90dcca0f.js.map",
+    "static/js/2.aebf3239.chunk.js": "/mottet-dev-website/static/js/2.aebf3239.chunk.js",
+    "static/js/2.aebf3239.chunk.js.map": "/mottet-dev-website/static/js/2.aebf3239.chunk.js.map",
+    "index.html": "/mottet-dev-website/index.html",
+    "static/css/main.860dd602.chunk.css.map": "/mottet-dev-website/static/css/main.860dd602.chunk.css.map",
+    "static/js/2.aebf3239.chunk.js.LICENSE.txt": "/mottet-dev-website/static/js/2.aebf3239.chunk.js.LICENSE.txt",
+    "static/media/computer.cb623493.jpeg": "/mottet-dev-website/static/media/computer.cb623493.jpeg",
+    "static/media/profilepicture.d23b276d.jpg": "/mottet-dev-website/static/media/profilepicture.d23b276d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90dcca0f.js",
+    "static/js/2.aebf3239.chunk.js",
+    "static/css/main.860dd602.chunk.css",
+    "static/js/main.d0ceb800.chunk.js"
+  ]
+}
