@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/mottet-dev-website/static/css/main.860dd602.chunk.css",
-    "main.js": "/mottet-dev-website/static/js/main.d0ceb800.chunk.js",
-    "main.js.map": "/mottet-dev-website/static/js/main.d0ceb800.chunk.js.map",
-    "runtime-main.js": "/mottet-dev-website/static/js/runtime-main.90dcca0f.js",
-    "runtime-main.js.map": "/mottet-dev-website/static/js/runtime-main.90dcca0f.js.map",
-    "static/js/2.aebf3239.chunk.js": "/mottet-dev-website/static/js/2.aebf3239.chunk.js",
-    "static/js/2.aebf3239.chunk.js.map": "/mottet-dev-website/static/js/2.aebf3239.chunk.js.map",
-    "index.html": "/mottet-dev-website/index.html",
-    "static/css/main.860dd602.chunk.css.map": "/mottet-dev-website/static/css/main.860dd602.chunk.css.map",
-    "static/js/2.aebf3239.chunk.js.LICENSE.txt": "/mottet-dev-website/static/js/2.aebf3239.chunk.js.LICENSE.txt",
-    "static/media/computer.cb623493.jpeg": "/mottet-dev-website/static/media/computer.cb623493.jpeg",
-    "static/media/profilepicture.d23b276d.jpg": "/mottet-dev-website/static/media/profilepicture.d23b276d.jpg"
+    "main.css": "/static/css/main.fd9edc74.chunk.css",
+    "main.js": "/static/js/main.91fe9fd3.chunk.js",
+    "main.js.map": "/static/js/main.91fe9fd3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ab53cfe2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ab53cfe2.js.map",
+    "static/js/2.5b4279a2.chunk.js": "/static/js/2.5b4279a2.chunk.js",
+    "static/js/2.5b4279a2.chunk.js.map": "/static/js/2.5b4279a2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fd9edc74.chunk.css.map": "/static/css/main.fd9edc74.chunk.css.map",
+    "static/js/2.5b4279a2.chunk.js.LICENSE.txt": "/static/js/2.5b4279a2.chunk.js.LICENSE.txt",
+    "static/media/computer.cb623493.jpeg": "/static/media/computer.cb623493.jpeg",
+    "static/media/profile_picture.d23b276d.jpg": "/static/media/profile_picture.d23b276d.jpg",
+    "static/media/small_profile_picture.967b5f5d.jpg": "/static/media/small_profile_picture.967b5f5d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90dcca0f.js",
-    "static/js/2.aebf3239.chunk.js",
-    "static/css/main.860dd602.chunk.css",
-    "static/js/main.d0ceb800.chunk.js"
+    "static/js/runtime-main.ab53cfe2.js",
+    "static/js/2.5b4279a2.chunk.js",
+    "static/css/main.fd9edc74.chunk.css",
+    "static/js/main.91fe9fd3.chunk.js"
   ]
 }
