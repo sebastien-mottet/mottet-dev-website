@@ -14,7 +14,7 @@ function ServicesSection() {
                     <div className="section-title">
                         <h2 className="section-title-text">mes services</h2>
                     </div>
-                    <InView as={'div'} onChange={animate('fadeIn')} threshold={0.5} triggerOnce={true} className="card-service w-75">
+                    <InView as={'div'} onChange={animate('fadeIn')} threshold={0.3} triggerOnce={true} className="card-service w-75">
                         <h4 className="section-subtitle-text">Développement de logiciel</h4>
                         <h5>Des solutions sur-mesure</h5>
                         <p>
@@ -22,7 +22,7 @@ function ServicesSection() {
                             votre projet informatique de la phase de conception au déploiement en passant par le développement et la maintenance.
                         </p>
                     </InView>
-                    <InView as={'div'} onChange={animate('fadeIn')} threshold={0.5} triggerOnce={true} className="card-service w-75">
+                    <InView as={'div'} onChange={animate('fadeIn')} threshold={0.3} triggerOnce={true} className="card-service w-75">
                         <h4 className="section-subtitle-text">Science des données</h4>
                         <h5>Faites parler vos données</h5>
                         <h6>Vos données ont de la valeur. Etes-vous certain de bien les exploiter?</h6>

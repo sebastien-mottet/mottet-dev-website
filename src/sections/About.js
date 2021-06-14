@@ -14,13 +14,13 @@ function AboutSection() {
             <Row className="about-me-row">
                 <Col className="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 about-me-column">
                     <h4 className="section-subtitle-text mb-4">Éducation</h4>
-                    <InView as={'div'} onChange={animate('fadeIn')} threshold={0.5} triggerOnce={true} className="about-card">
+                    <InView as={'div'} onChange={animate('fadeIn')} threshold={0.3} triggerOnce={true} className="about-card">
                         <h4 className="about-card-title">Master - ingénieur civil en informatique</h4>
                         <h5 className="about-card-subtitle">école polytechnique de louvain</h5>
                         <h5 className="about-card-year">Septembre 2017 - Juin 2019</h5>
                         <p className="text-muted">Master en informatique avec une spécialisation en intelligence artficielle et algorithmique. Diplômé avec grande distinction.</p>
                     </InView>
-                    <InView as={'div'} onChange={animate('fadeIn')} threshold={0.5} triggerOnce={true} className="about-card">
+                    <InView as={'div'} onChange={animate('fadeIn')} threshold={0.3} triggerOnce={true} className="about-card">
                         <h4 className="about-card-title">Master - Mémoire</h4>
                         <h5 className="about-card-subtitle">Ethics in Big Data: designing recommendation algorithms avoiding ’filter bubbles’</h5>
                         <h5 className="about-card-year">Septembre 2018 - Juin 2019</h5>
@@ -40,7 +40,7 @@ function AboutSection() {
                 </Col>
                 <Col className="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 about-me-column">
                     <h4 className="section-subtitle-text">Expériences</h4>
-                    <InView as={'div'} onChange={animate('fadeIn')} threshold={0.5} triggerOnce={true} className="about-card">
+                    <InView as={'div'} onChange={animate('fadeIn')} threshold={0.3} triggerOnce={true} className="about-card">
                         <h4 className="about-card-title">Ingénieur Logiciel chez Odoo</h4>
                         <ul>
                             <li className="about-card-section">
@@ -64,7 +64,7 @@ function AboutSection() {
                             </li>
                         </ul>
                     </InView>
-                    <InView as={'div'} onChange={animate('fadeIn')} threshold={0.5} triggerOnce={true} className="about-card">
+                    <InView as={'div'} onChange={animate('fadeIn')} threshold={0.3} triggerOnce={true} className="about-card">
                         <h4 className="about-card-title">Ingénieur Logiciel chez ALOALTO</h4>
                         <h5 className="about-card-year">Septembre 2019 - Janvier 2020</h5>
                         <p className="text-muted">

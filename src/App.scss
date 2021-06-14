@@ -29,7 +29,7 @@ code {
 }
 
 .nav {
-  height: $navbar-height;
+  min-height: $navbar-height;
 }
 
 .nav-link {
