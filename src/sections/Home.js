@@ -1,8 +1,8 @@
 import { InView } from 'react-intersection-observer'
 import { Col, Container, Row, Button, Image } from 'react-bootstrap';
 import { animate } from '../utils';
-import profilePicture from '../img/profilepicture.jpg';
-
+import profilePicture from '../img/profile_picture.jpg';
+import smallProfilePicture from '../img/small_profile_picture.jpg';
 
 function HomeSection() {
 
@@ -14,6 +14,9 @@ function HomeSection() {
                     <div className="section-title-border">
                         <h1>Sébastien Mottet,</h1>
                         <h2>Ingénieur civil en informatique</h2>
+                    </div>
+                    <div className="small-profile-picture-div">
+                        <Image fluid className={"small-profile-picture"} src={smallProfilePicture} roundedCircle/>
                     </div>
                     <div className="w-75 mt-4 mb-4">
                         <p>

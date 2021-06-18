@@ -127,10 +127,10 @@ ul {
 
 .section-home {
 
-  @media (min-width: 960px) {
+  @media (min-width: 992px) {
     background: linear-gradient(to right, white 70%, $secondary 30%);
   }
-  
+
   padding-top: $navbar-height;
 
   .home-row {
@@ -142,7 +142,19 @@ ul {
     opacity: 0;
   }
 
+  .small-profile-picture-div {
+    @media (min-width: 992px) {
+      display: none;
+    }
+    width: 65%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
   .profile-picture {
+    @media (max-width: 992px) {
+      display: none;
+    }
     transform: scale(0.9);
   }
 
