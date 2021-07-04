@@ -21,7 +21,7 @@ function HomeSection() {
                     <div className="w-75 mt-4 mb-4">
                         <p>
                             Passionné depuis l'enfance par l'informatique, à 11 ans déjà je créais mon premier site web dédié aux personnages
-                            de la célèbre bande dessinée Astérix. Cette passion m'a ensuite guidée dans mon choix d'étude et de carrière.
+                            de la célèbre bande dessinée Astérix. Cette passion m'a ensuite guidé dans mon choix d'étude et de carrière.
                             Fort de mon diplôme et de mes années d'expérience dans le développement logiciel, je vous propose de vous accompagner 
                             tout au long de votre projet informatique de la phase de conception au déploiement en passant par le développement.
                         </p>

@@ -30,7 +30,7 @@ function AboutSection() {
                                 <h5 className="about-card-subtitle">Artificial Intelligence Team</h5>
                                 <h5 className="about-card-year">Février 2020 - Février 2021</h5>
                                 <p className="text-muted">
-                                    En tant que membre de cette équipe j'ai travaillé à l'amélioration notre système de traitement automatique de facture.
+                                    En tant que membre de cette équipe j'ai travaillé à l'amélioration de notre système de traitement automatique de facture.
                                     Le système extrait automatiquement les données utiles de vos factures et les encode directement dans votre comptabilité
                                     sans nécéssité d'intervention humaine.
                                 </p>

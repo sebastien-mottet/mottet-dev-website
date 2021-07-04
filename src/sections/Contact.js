@@ -18,7 +18,7 @@ function ContactSection() {
             </Col>
             <Col className="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12 contact-column">
                 <h4 className="section-subtitle-text">Téléphone</h4>
-                <InView as='h3' onChange={animate('fadeIn')} threshold={0} triggerOnce={true} className="opacity-0">0492/60.63.18</InView>
+                <InView as={Button} onChange={animate('fadeIn')} threshold={0} triggerOnce={true} href="tel:+32492606318" className="opacity-0" variant="link"><h3>0492/60.63.18</h3></InView>
             </Col>
             <Col className="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12 contact-column">
                 <h4 className="section-subtitle-text">Social</h4>
